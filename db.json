@@ -1,0 +1,34 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This is from backend 1"
+    },
+    {
+      "id": 2,
+      "rating": 5,
+      "text": "This is from backend 2"
+    },
+    {
+      "id": 3,
+      "rating": 7,
+      "text": "This is from backend 3"
+    },
+    {
+      "text": "hello new post",
+      "rating": 3,
+      "id": 5
+    },
+    {
+      "text": "dfgdfgdfghfh",
+      "rating": 7,
+      "id": 6
+    },
+    {
+      "text": "new trertserew",
+      "rating": 3,
+      "id": 7
+    }
+  ]
+}
