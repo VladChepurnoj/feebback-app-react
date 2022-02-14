@@ -17,5 +17,5 @@ const AboutPage = () => {
     </Card>
   );
 };
-
+//upd
 export default AboutPage;
